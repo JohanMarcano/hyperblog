@@ -1,0 +1,36 @@
+[33mcommit a71bd221bc0ef1d5fe1bd4b95e159b20a17e5475[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Johan Marcano <johand503@gmail.com>
+Date:   Sun Nov 8 21:06:54 2020 -0300
+
+    cambio de maestria
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit c70a678fb7ebec6c4a7e83a89597677ed870661b[m
+Author: Johan Marcano <johand503@gmail.com>
+Date:   Sun Nov 8 21:04:04 2020 -0300
+
+    Arranco mi proyecto real con html y css
+
+ blogpost.html   | 11 [32m+++++++++++[m
+ css/estilos.css |  6 [32m++++++[m
+ 2 files changed, 17 insertions(+)
+
+[33mcommit 5d204b213deb5ff6176741bd70cbe3d24b573e9d[m
+Author: Johan Marcano <johand503@gmail.com>
+Date:   Sun Nov 8 20:22:53 2020 -0300
+
+    Cambios al archivo para reflejar nacimiento
+
+ historia.txt | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+
+[33mcommit a6005c56fece1f25741190a6a8783dfafb937f20[m
+Author: Johan Marcano <Johan.Marcano@iprospect.com>
+Date:   Sun Nov 8 20:12:14 2020 -0300
+
+    Este es el primer commit de este archivo
+
+ historia.txt | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
