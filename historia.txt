@@ -5,3 +5,5 @@ Johan tiene 27 años y esta aprendiendo programación.
 Nació en Venezuela y viviendo en todo el mundo.
 
 Hoy hablaremos de su vida y obra maestra.
+
+Mañana nos enfocaremos en su vida laboral. 
